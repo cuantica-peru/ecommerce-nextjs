@@ -1,0 +1,20 @@
+{
+  "name": "cuantica-ecommerce",
+  "version": "1.0.0",
+  "description": "cuantica ecommerce",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "Josue Montoya & Clara Vega",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "isomorphic-unfetch": "^3.1.0",
+    "next": "^10.0.9",
+    "nodemon": "^2.0.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "woocommerce-api": "^1.5.0"
+  }
+}

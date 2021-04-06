@@ -1,0 +1,10 @@
+//CUANTICA DEV VSCODE SETTINGS
+//puedes modifica el background si el color no es de tu agrado xd
+{
+    "workbench.colorCustomizations": {
+      "titleBar.activeBackground": "#5f215a",
+      "titleBar.inactiveBackground": "#291a27",
+      "editor.background": "#221521"
+     
+    }
+  }
